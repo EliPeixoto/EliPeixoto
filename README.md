@@ -1,4 +1,43 @@
-### Hi there 👋
+### Oi, meu nome é Eliane👋
+Atualmente Agente tecnico Adm no Senac, tendo oportunidade de experimentar TI como desenvolverdora jr (estagiando), e estudande fulltime.
+
+- 👨🏻‍💻 **Senac - Secretaria a 5 anos**
+- 🎹 **Apaixonada por música**
+- 💻 **Formada em Analise e Desenvolvimento de Sistemas pelo Senac em 2023**
+- 🖥️ **Atualmente mais focada em:**
+
+## FrontEnd
+<div display="inline">
+ <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="50" heigth="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+<img width="50" heigth="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </div>                
+          
+          
+## BackEnd
+<div display="inline">
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img  width="50" heigth="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</div>   
+
+## Outros
+<div display="inline">
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
+<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+</div>   
+          
+### Você também me encontra em:
+&nbsp;<a href="https://www.linkedin.com/in/eliane-peixoto-b449bb9b/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/eli.peixotoo/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>&nbsp;
 
 <!--
 **EliPeixoto/EliPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
