@@ -1,5 +1,5 @@
 ### Oi, meu nome é Eliane👋
-Atualmente Agente tecnico Adm no Senac, tendo oportunidade de experimentar TI como desenvolverdora jr (estagiando), e estudande fulltime.
+Atualmente Agente Tecnico Adm no Senac, tendo oportunidade de experimentar TI como desenvolverdora jr (estagiando), e estudande fulltime.
 
 - 👨🏻‍💻 **Senac - Secretaria a 5 anos**
 - 🎹 **Apaixonada por música**
