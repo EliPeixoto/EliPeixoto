@@ -3,7 +3,7 @@ Atualmente Agente Tecnico Adm no Senac, tendo oportunidade de experimentar TI co
 
 - 👨🏻‍💻 **Senac - Secretaria a 4,5 anos e 6 meses estagiando em TI**
 - 🎹 **Apaixonada por música**
-- 💻 **Formada em Analise e Desenvolvimento de Sistemas pelo Senac em 2023**
+- 💻 **Formada em Analise e Desenvolvimento de Sistemas pelo Senac em 2023 e Tecnico em Redes de Computadores, também pelo Senac em 2018**
 - 🖥️ **Atualmente mais focada em:**
 
 ## FrontEnd
