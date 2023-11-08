@@ -1,7 +1,7 @@
 ### Oi, meu nome é Eliane👋
 Atualmente Agente Tecnico Adm no Senac, tendo oportunidade de experimentar TI como desenvolverdora jr (estagiando), e estudande fulltime.
 
-- 👨🏻‍💻 **Senac - Secretaria a 5 anos**
+- 👨🏻‍💻 **Senac - Secretaria a 4,5 anos e 6 meses estagiando em TI**
 - 🎹 **Apaixonada por música**
 - 💻 **Formada em Analise e Desenvolvimento de Sistemas pelo Senac em 2023**
 - 🖥️ **Atualmente mais focada em:**
