@@ -3,8 +3,9 @@ Atualmente Desenvolvedora Web junior,  e estudando fulltime.
 
 - 👨🏻‍💻 **Senac SP - Gerencia da Tecnologia da Informação - Squad Web**
 - 🎹 **Apaixonada por música**
-- 💻 **Pós Graduanda em Arquitetura e Desenvolvimetno Java pela FIAP**
-- 💻 **Formada em Analise e Desenvolvimento de Sistemas pelo Senac em 2023 e Tecnico em Redes de Computadores, também pelo Senac em 2018**
+- 💻 **Pós Graduanda em Arquitetura e Desenvolvimetno Java pela FIAP - 2024**
+- 💻 **Formada em Analise e Desenvolvimento de Sistemas pelo Senac SP em 2023**
+- 🖥️ **Formação em Tecnico em Redes de Computadores pelo Senac Sorocaba em 2018** 
 - 🖥️ **Atualmente mais focada em:**
 
 ## FrontEnd
