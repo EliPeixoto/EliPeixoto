@@ -1,5 +1,5 @@
 ### Oi, meu nome é Eliane👋
-Atualmente Desenvolvedora Web junior,  e estudando fulltime.
+Atualmente Desenvolvedora Web,  e estudando fulltime.
 
 - 👨🏻‍💻 **Senac SP - Gerencia da Tecnologia da Informação - Squad Web**
 - 🎹 **Apaixonada por música**
