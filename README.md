@@ -32,6 +32,7 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
 </div>   
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=EliPeixoto)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliPeixoto&show_icons=true&theme=dark)
