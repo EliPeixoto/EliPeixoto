@@ -33,7 +33,7 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
           
 </div>   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EliPeixoto)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliPeixoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliPeixoto&show_icons=true&theme=dark)
           
