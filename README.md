@@ -33,9 +33,23 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
           
 </div>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliPeixoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliPeixoto&show_icons=true&theme=dark)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliPeixoto&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=EliPeixoto&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
           
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/eliane-peixoto-b449bb9b/">
