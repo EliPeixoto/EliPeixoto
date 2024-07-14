@@ -32,6 +32,7 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
 </div>   
+https://github-readme-stats.vercel.app/api?username=EliPeixoto&show_icons=true&theme=dark
           
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/eliane-peixoto-b449bb9b/">
