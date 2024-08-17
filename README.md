@@ -8,32 +8,8 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
 - 🖥️ **Formação em Tecnico em Redes de Computadores pelo Senac Sorocaba em 2018** 
 - 🖥️ **Atualmente mais focada em:**
 
-## FrontEnd
-<div display="inline">
- <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="50" heigth="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
-<img width="50" heigth="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </div>                
-          
-          
-## BackEnd
-<div display="inline">
-<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img  width="50" heigth="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-</div>   
 
-## Outros
-<div display="inline">
-<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
-<img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
-</div>   
-
-
+<hr>
 
 <table>
   <tr>
@@ -51,18 +27,50 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
 </table>
 
           
-### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/eliane-peixoto-b449bb9b/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/eli.peixotoo/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+<hr>
+**Conhecimentos em:**
 
-<img src="https://raw.githubusercontent.com/EliPeixoto/EliPeixoto/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
 ###
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/elipeixoto/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="elipeixoto7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="@eli.peixotoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="eliane.peixoto@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
 <!--
 **EliPeixoto/EliPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
