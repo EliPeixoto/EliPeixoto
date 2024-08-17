@@ -59,13 +59,13 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
   <a href="https://www.linkedin.com/in/elipeixoto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="elipeixoto7" target="_blank">
+  <a href="https://discordapp.com/users/elipeixoto7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="@eli.peixotoo" target="_blank">
+  <a href="https://www.instagram.com/eli.peixotoo/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="eliane.peixoto@outlook.com" target="_blank">
+  <a href="mailto:eliane.peixoto@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
