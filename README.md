@@ -28,11 +28,11 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
 
           
 <hr>
-**Conhecimentos em:**
+
 
 <br clear="both">
 
-<div align="center">
+**Conhecimentos em:**<br><br><br><div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -53,9 +53,9 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
 </div>
 
 ###
+<br><br><br><br>
 
-
-<div align="center">
+**Você me encontra também por aqui:**<br><br><br><div align="center">
   <a href="https://www.linkedin.com/in/elipeixoto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
