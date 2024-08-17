@@ -59,6 +59,10 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
 
+<img src="https://raw.githubusercontent.com/EliPeixoto/EliPeixoto/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **EliPeixoto/EliPeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
