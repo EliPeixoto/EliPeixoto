@@ -9,25 +9,7 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
 - 🖥️ **Atualmente mais focada em:**
 
 
-<hr>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliPeixoto&layout=compact" alt="Top Langs" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=EliPeixoto&show_icons=true&theme=dark" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-          
-<hr>
 
 
 <br clear="both">
@@ -69,6 +51,26 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+<hr>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliPeixoto&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=EliPeixoto&show_icons=true&theme=dark" alt="GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+          
+<hr>
 
 ###
 <!--
