@@ -10,11 +10,6 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
 
 
 
-
-
-<br clear="both">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
-
 **Conhecimentos em:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo" />
@@ -28,8 +23,6 @@ Atualmente Desenvolvedora Web,  e estudando fulltime.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="docker logo" />
 </p>
 
-###
-<br><br><br><br>
 
 **Você me encontra também por aqui:**<br><br><br><div align="center">
   <a href="https://www.linkedin.com/in/elipeixoto/" target="_blank">
